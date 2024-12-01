@@ -23,11 +23,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-### Desktop view
+
 ![desktop-view](https://github.com/SkippoJnr/order-summary-component/blob/524c5b8c8a060048854a0c4894872c97ea4afa21/screenshots/desktop-design.jpeg)
 
-### Mobile view
-![mobile-view](https://github.com/SkippoJnr/order-summary-component/blob/84943e656327193491b0b6025db690231a9d3c9b/screenshots/mobile-design.jpeg)
+
 
 ### Links
 
