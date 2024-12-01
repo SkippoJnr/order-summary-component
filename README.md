@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 ### Desktop view
-![desktop-view](https://github.com/Skippo-Jnr/order-summary-component/blob/ebd7a118e1880a743da0d27c4927edc69c3f83c6/screenshots/desktop-design.jpeg)
+![desktop-view](https://github.com/SkippoJnr/order-summary-component/blob/524c5b8c8a060048854a0c4894872c97ea4afa21/screenshots/desktop-design.jpeg)
 
 ### Mobile view
 ![mobile-view](https://github.com/Skippo-Jnr/order-summary-component/blob/ebd7a118e1880a743da0d27c4927edc69c3f83c6/screenshots/mobile-design.jpeg)
